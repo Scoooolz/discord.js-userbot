@@ -1,0 +1,20 @@
+{
+  "name": "discord.js-userbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scoooolz/discord.js-userbot.git"
+  },
+  "keywords": [
+    "Discord.js",
+    "Node.js"
+  ],
+  "author": "Scoooolz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scoooolz/discord.js-userbot/issues"
+  },
+  "homepage": "https://github.com/Scoooolz/discord.js-userbot#readme"
+}
